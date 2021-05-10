@@ -18,7 +18,7 @@
 <br>
 <br>
 <br>
-- visit my website at <a href="jonasleonhard.de">jonasleonhard.de</a>
+- visit my website at <a href="https://jonasleonhard.de/">jonasleonhard.de</a>
 
 *Note: this is non exhaustive list of stuff i prefer using. I might have experience in a given tool, but just haven't added it to this list.*
 <h3 align="left">
