@@ -150,6 +150,9 @@
     <a href="https://www.npmjs.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/>
     </a>
+    a href="https://getcomposer.org/" target="_blank">
+      <img src="https://github.com/detain/svg-logos/blob/master/svg/composer.svg" alt="php-composer" width="40" height="40"/>
+    </a>
     <a href="https://eslint.org/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="esLint" width="40" height="40"/>
     </a>
@@ -161,6 +164,15 @@
     </a>
     <a href="https://github.com/styled-components/styled-components" target="_blank">
       <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="react-styled-components" width="40" height="40"/>
+    </a>
+    <a href="https://www.apollographql.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg" alt="next-apollo" width="40" height="40"/>
+    </a>
+    <a href="https://sequelize.org/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="express-sequelize" width="40" height="40"/>
+    </a>
+    <a href="https://hibernate.org/orm/documentation/5.4/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="spring-hibernate-jpa" width="40" height="40"/>
     </a>
 
   <a href="https://www.photoshop.com/en" target="_blank"> 
@@ -211,6 +223,9 @@
     </a> 
     <a href="https://www.docker.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    </a> 
+    <a href="https://docs.docker.com/compose/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker-compose" width="40" height="40"/> 
     </a> 
     <a href="https://git-scm.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
