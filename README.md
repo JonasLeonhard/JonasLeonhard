@@ -132,6 +132,15 @@
     <a href="https://gulpjs.com" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> 
     </a> 
+    <a href="https://gradle.org/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="gradle" width="40" height="40"/>
+    </a>
+    <a href="https://yarnpkg.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" width="40" height="40"/>
+    </a>
+    <a href="https://www.npmjs.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/>
+    </a>
 
   <a href="https://www.photoshop.com/en" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
