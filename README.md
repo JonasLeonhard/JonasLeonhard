@@ -12,7 +12,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jonasleonhard&label=Profile%20views&color=0e75b6&style=flat" alt="jonasleonhard" /> 
-  [![GitHub JonasLeonhard](https://img.shields.io/github/followers/JonasLeonhard?label=follow&style=social)](https://github.com/JonasLeonhard)
+  <img src="https://img.shields.io/github/followers/JonasLeonhard?label=follow&style=social)](https://github.com/JonasLeonhard" alt="follow-badge" />
   <a href="https://jonasleonhard.de/"><img src="https://img.shields.io/badge/Visit-Jonasleonhard.de-green" alt="fun-badge" /></a>
 </p>
 
