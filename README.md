@@ -1,5 +1,5 @@
 <p algin="left">
-<img align="left" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150px">
+<img align="left" src="https://media.giphy.com/media/xUOrw01a1gy7BUwq40/giphy.gif" width="150px">
 <h1 align="center">@JonasLeonhard</h1>
 <h3 align="center">"🐲 Fullstack Developer from Germany"</h3>
 </p>
