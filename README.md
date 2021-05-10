@@ -181,10 +181,10 @@
       <img src="https://github.com/gilbarbara/logos/blob/master/logos/react-spring.svg" alt="react-spring" width="40" height="40"/> 
     </a>
     <a href="https://mozilla.github.io/nunjucks/" target="_blank"> 
-      <img src="https://mozilla.github.io/nunjucks/" alt="nunjucks-tmpl" width="40" height="40"/> 
+      <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_nunjucks.svg" alt="nunjucks-tmpl" width="40" height="40"/> 
     </a>
-    <a href="https://github.com/simple-icons/simple-icons/blob/master/icons/thymeleaf.svg" target="_blank"> 
-      <img src="https://www.thymeleaf.org/" alt="thmyeleaf-tmpl" width="40" height="40"/> 
+    <a href="https://www.thymeleaf.org/" target="_blank"> 
+      <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/thymeleaf.svg" alt="thmyeleaf-tmpl" width="40" height="40"/> 
     </a>
 
   <a href="https://www.photoshop.com/en" target="_blank"> 
