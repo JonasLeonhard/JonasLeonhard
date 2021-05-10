@@ -150,6 +150,18 @@
     <a href="https://www.npmjs.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/>
     </a>
+    <a href="https://eslint.org/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="esLint" width="40" height="40"/>
+    </a>
+    <a href="https://react-redux.js.org/" target="_blank">
+      <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/redux.svg" alt="react-redux" width="40" height="40"/>
+    </a>
+    <a href="https://ngrx.io/" target="_blank">
+      <img src="https://github.com/file-icons/icons/blob/master/svg/NgRx.svg" alt="angular-ngrx" width="40" height="40"/>
+    </a>
+    <a href="https://github.com/styled-components/styled-components" target="_blank">
+      <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="react-styled-components" width="40" height="40"/>
+    </a>
 
   <a href="https://www.photoshop.com/en" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
