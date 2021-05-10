@@ -99,7 +99,7 @@
 </p>
 
 <h3>
-  📄 Databases
+  📄 Databases & CMS
 </h3>
 <p align="left">
   <code>
@@ -114,6 +114,15 @@
     </a> 
     <a href="https://www.sqlite.org/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+    </a> 
+    <a href="https://craftcms.com/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/49314d89b6a54b2750a130e2b56d5da310aa6552/icons/craftcms.svg" alt="craftCMS" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.drupal.org/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/drupal/drupal-icon.svg" alt="drupal" width="40" height="40"/> 
+    </a> 
+    <a href="https://strapi.io/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/strapi.svg" alt="drupal" width="40" height="40"/> 
     </a> 
   </code>
 </p>
