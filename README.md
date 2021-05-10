@@ -1,13 +1,24 @@
+<p algin="left">
+<img align="left" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150px">
+<br>
 <h1 align="center">@JonasLeonhard</h1>
-<h3 align="center">Fullstack Developer from Germany</h3>
+<h3 align="center">"🐲 Fullstack Developer from Germany"</h3>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jonasleonhard&label=Profile%20views&color=0e75b6&style=flat" alt="jonasleonhard" /> 
+  [![GitHub JonasLeonhard](https://img.shields.io/github/followers/JonasLeonhard?label=follow&style=social)](https://github.com/JonasLeonhard)
 </p>
 
-*non exhaustive list of stuff im using
+*Note: this is non exhaustive list of stuff i prefer using. I might have experience in a given tool, but just haven't added it to this list.*
 <h3 align="left">
-  Languages:
+  💾 Languages:
 </h3>
 <p>
   <code>
@@ -51,7 +62,7 @@
 </p>
 
 <h3 align="left">
-  Frameworks
+  🗄️ Frameworks
 </h3>
 <p align="left">
   <code>
@@ -83,7 +94,7 @@
 </p>
 
 <h3>
-  Databases
+  📄 Databases
 </h3>
 <p align="left">
   <code>
@@ -103,7 +114,7 @@
 </p>
 
 <h3 align="left">
-  Tools
+  🔋 Tools
 </h3>
 <p align="left">
   <code>
@@ -129,14 +140,14 @@
   <a href="https://www.blender.org/" target="_blank"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  <a href="https://insomnia.rest/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/insomnia.svg" alt="postman" width="40" height="40"/> 
   </a> 
   </code>
 </p>
 
 <h3 align="left">
-  Plattforms
+  🔌 Plattforms
 </h3>
 <p align="left">
   <code>
@@ -153,7 +164,7 @@
 </p>
 
 <h3 align="left">
-  DevOps
+  🗿 DevOps
 </h3>
 <p align="left"> 
   <code>
@@ -175,7 +186,7 @@
   </code>
 </p>
 
-
+*NOTE: Top languages are not an indication of my skill level, it's a simple github metric of pure lines of code i have in my repositories of a respective language. Boilerplate heavy languages & frameworks might influence the results.*
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasleonhard&show_icons=true&locale=en&layout=compact" alt="jonasleonhard" />
 </p>
