@@ -89,9 +89,6 @@
     <a href="https://spring.io/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
     </a> 
-    <a href="https://getbootstrap.com" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
     <a href="https://www.djangoproject.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
     </a>
@@ -150,7 +147,7 @@
     <a href="https://www.npmjs.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/>
     </a>
-    a href="https://getcomposer.org/" target="_blank">
+    <a href="https://getcomposer.org/" target="_blank">
       <img src="https://github.com/detain/svg-logos/blob/master/svg/composer.svg" alt="php-composer" width="40" height="40"/>
     </a>
     <a href="https://eslint.org/" target="_blank">
@@ -173,6 +170,21 @@
     </a>
     <a href="https://hibernate.org/orm/documentation/5.4/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="spring-hibernate-jpa" width="40" height="40"/>
+    </a>
+     <a href="https://getbootstrap.com" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    </a> 
+    <a href="https://ant.design/" target="_blank"> 
+      <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="antd" width="40" height="40"/> 
+    </a> 
+    <a href="https://react-spring.io/" target="_blank"> 
+      <img src="https://github.com/gilbarbara/logos/blob/master/logos/react-spring.svg" alt="react-spring" width="40" height="40"/> 
+    </a>
+    <a href="https://mozilla.github.io/nunjucks/" target="_blank"> 
+      <img src="https://mozilla.github.io/nunjucks/" alt="nunjucks-tmpl" width="40" height="40"/> 
+    </a>
+    <a href="https://github.com/simple-icons/simple-icons/blob/master/icons/thymeleaf.svg" target="_blank"> 
+      <img src="https://www.thymeleaf.org/" alt="thmyeleaf-tmpl" width="40" height="40"/> 
     </a>
 
   <a href="https://www.photoshop.com/en" target="_blank"> 
