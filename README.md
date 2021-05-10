@@ -200,6 +200,9 @@
     <a href="https://www.rabbitmq.com" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
     </a> 
+    <a href="https://letsencrypt.org/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-ar21.svg" alt="letsencrypt" width="40" height="40"/> 
+    </a> 
   </code>
 </p>
 
