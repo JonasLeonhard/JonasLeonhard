@@ -21,7 +21,7 @@
 <br>
 <br>
 
-*Note: this is a non exhaustive list of stuff i prefer using or i am currently learning. There might also be stuff i forgot to put on the list, so just ask me about it.*
+*Note: this is a non exhaustive list of stuff i prefer using. There is alot of stuff i didn't put on the list, so just ask me about it.*
 <h3 align="left">
   💾 Languages:
 </h3>
