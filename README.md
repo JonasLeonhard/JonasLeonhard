@@ -202,6 +202,9 @@
   <a href="https://insomnia.rest/" target="_blank" title"insomnia rest-api testing"> 
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/insomnia.svg" alt="postman" width="40" height="40"/> 
   </a> 
+  <a href="https://www.gnu.org/software/make/" target="_blank" title"Make"> 
+    <img src="https://www.svgrepo.com/show/19269/file.svg" alt="Make" width="40" height="40"/> 
+  </a> 
   </code>
 </p>
 
