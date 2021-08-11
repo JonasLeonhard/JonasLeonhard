@@ -21,7 +21,7 @@
 <br>
 <br>
 
-*Note: this is a non exhaustive list of stuff i prefer using. There is alot of stuff i didn't put on the list, so just ask me about it.*
+*Note: this is a list of stuff i prefer using and would like to work with. There is alot of stuff i didn't put on the list, so just ask me about it.*
 <h3 align="left">
   💾 Languages:
 </h3>
@@ -269,7 +269,7 @@
   </code>
 </p>
 
-*NOTE: Top languages are not an indication of my skill level, it's a simple github metric of pure lines of code i have in my repositories of a respective language. Boilerplate heavy languages & frameworks might influence the results.*
+*Note: Top languages are not an indication of my skill level, they are a simple github metric of pure lines of code i have in my repositories of any respective language. Boilerplate heavy languages & frameworks might influence this results.*
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasleonhard&show_icons=true&locale=en&layout=compact" alt="jonasleonhard" />
 </p>
