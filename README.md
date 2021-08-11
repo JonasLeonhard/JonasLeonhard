@@ -217,6 +217,9 @@
    <a href="https://storybook.js.org/" target="_blank" title="Storybook"> 
     <img src="https://cdn.svgporn.com/logos/storybook-icon.svg" alt="Storybook" width="40" height="40"/> 
    </a>
+   <a href="https://twig.symfony.com/" target="_blank" title="Twig"> 
+    <img src="https://twig.symfony.com/images/logo.png" alt="Twig" width="40" height="40"/> 
+   </a>
   </code>
 </p>
 
