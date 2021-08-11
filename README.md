@@ -83,6 +83,9 @@
     <a href="https://expressjs.com" target="_blank" title="express.js"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
     </a> 
+    <a href="https://vuejs.org/" target="_blank" title="Vue"> 
+    <img src="https://cdn.svgporn.com/logos/vue.svg" alt="Vue" width="40" height="40"/> 
+    </a> 
     <a href="https://angular.io" target="_blank" title="angular9"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
     </a> 
@@ -214,9 +217,6 @@
    <a href="https://storybook.js.org/" target="_blank" title="Storybook"> 
     <img src="https://cdn.svgporn.com/logos/storybook-icon.svg" alt="Storybook" width="40" height="40"/> 
    </a>
-   <a href="https://cdn.svgporn.com/logos/vue.svg" target="_blank" title="Vue"> 
-    <img src="https://vuejs.org/" alt="Vue" width="40" height="40"/> 
-   </a> 
   </code>
 </p>
 
