@@ -205,6 +205,18 @@
   <a href="https://www.gnu.org/software/make/" target="_blank" title="Make"> 
     <img src="https://www.svgrepo.com/show/19269/file.svg" alt="Make" width="40" height="40"/> 
   </a> 
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" title="Gitlab & Gitlab-CI"> 
+    <img src="https://cdn.svgporn.com/logos/gitlab.svg" alt="Gitlab & Gitlab-CI" width="40" height="40"/> 
+  </a> 
+  <a href="https://rollupjs.org/guide/en/" target="_blank" title="Rollup"> 
+    <img src="https://cdn.svgporn.com/logos/rollupjs.svg" alt="Rollup.js" width="40" height="40"/> 
+  </a> 
+   <a href="https://storybook.js.org/" target="_blank" title="Storybook"> 
+    <img src="https://cdn.svgporn.com/logos/storybook-icon.svg" alt="Storybook" width="40" height="40"/> 
+   </a>
+   <a href="https://cdn.svgporn.com/logos/vue.svg" target="_blank" title="Vue"> 
+    <img src="https://vuejs.org/" alt="Vue" width="40" height="40"/> 
+   </a> 
   </code>
 </p>
 
@@ -247,9 +259,6 @@
     </a> 
     <a href="https://www.nginx.com" target="_blank" title="nginx"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.rabbitmq.com" target="_blank" title="rabbitMQ"> 
-      <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
     </a> 
     <a href="https://letsencrypt.org/" target="_blank" title="letsencrypt, certbot"> 
       <img src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-ar21.svg" alt="letsencrypt" width="40" height="40"/> 
