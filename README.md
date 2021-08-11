@@ -199,10 +199,10 @@
   <a href="https://www.blender.org/" target="_blank" title="blender 3d"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
-  <a href="https://insomnia.rest/" target="_blank" title"insomnia rest-api testing"> 
+  <a href="https://insomnia.rest/" target="_blank" title="insomnia rest-api testing"> 
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/insomnia.svg" alt="postman" width="40" height="40"/> 
   </a> 
-  <a href="https://www.gnu.org/software/make/" target="_blank" title"Make"> 
+  <a href="https://www.gnu.org/software/make/" target="_blank" title="Make"> 
     <img src="https://www.svgrepo.com/show/19269/file.svg" alt="Make" width="40" height="40"/> 
   </a> 
   </code>
