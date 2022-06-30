@@ -26,9 +26,8 @@
   💾 Languages:
 </h3>
 <p>
-  <code>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" /> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/> 
+      <img src="https://shields.io/badge/-javascript-gray?style=flat-square&logo=javascript" alt="javascript" /> 
+      <img src="https://shields.io/badge/-typescript-gray?style=flat-square&logo=typescript" alt="typescript"/> 
       <img src="https://shields.io/badge/-bash-gray?style=flat-square&logo=gnu-bash" alt="bash"/> 
       <img src="https://shields.io/badge/-rust-gray?style=flat-square&logo=rust" alt="rust" /> 
       <img src="https://shields.io/badge/-kotlin-gray?style=flat-square&logo=kotlin" alt="kotlin"/> 
@@ -40,14 +39,12 @@
       <img src="https://shields.io/badge/-sass-gray?style=flat-square&logo=sass" alt="sass"/> 
       <img src="https://shields.io/badge/-python-inactive?style=flat-square&logo=python" alt="python"/> 
       <img src="https://shields.io/badge/-go-inactive?style=flat-square&logo=go" alt="go"/> 
-  </code>
 </p>
 
 <h3 align="left">
   🗄️ Frameworks
 </h3>
 <p align="left">
-  <code>
       <img src="https://shields.io/badge/-next.js-gray?style=flat-square&logo=next.js" alt="nextjs" /> 
       <img src="https://shields.io/badge/-react-gray?style=flat-square&logo=react" alt="react" /> 
       <img src="https://shields.io/badge/-react-inactive?style=flat-square&logo=gatsby" alt="gatsby" /> 
@@ -56,28 +53,24 @@
       <img src="https://shields.io/badge/-vue-inactive?style=flat-square&logo=angular" alt="angular" /> 
       <img src="https://shields.io/badge/-spring-inactive?style=flat-square&logo=spring" alt="spring" /> 
       <img src="https://shields.io/badge/-django-inactive?style=flat-square&logo=django" alt="django" /> 
-  </code>
 </p>
 
 <h3>
   📄 Databases & CMS
 </h3>
 <p align="left">
-  <code>
       <img src="https://shields.io/badge/-graphql-gray?style=flat-square&logo=graphql" alt="graphql" /> 
       <img src="https://shields.io/badge/-postgresql-gray?style=flat-square&logo=postgresql" alt="postgresql" /> 
       <img src="https://shields.io/badge/-mysql-gray?style=flat-square&logo=mysql" alt="mysql" /> 
       <img src="https://shields.io/badge/-sqlite-inactive?style=flat-square&logo=sqlite" alt="sqlite" /> 
       <img src="https://shields.io/badge/-craftcms-inactive?style=flat-square&logo=craftcms" alt="craftCMS" /> 
       <img src="https://shields.io/badge/-drupal-inactive?style=flat-square&logo=drupal" alt="drupal" /> 
-  </code>
 </p>
 
 <h3 align="left">
   🔋 Tools
 </h3>
 <p align="left">
-  <code>
       <img src="https://shields.io/badge/-webpack-gray?style=flat-square&logo=webpack" alt="webpack" /> 
       <img src="https://shields.io/badge/-babel-gray?style=flat-square&logo=babel" alt="babel" /> 
       <img src="https://shields.io/badge/-gulp-inactive?style=flat-square&logo=gulp" alt="gulp" /> 
@@ -119,8 +112,6 @@
       <img src="https://shields.io/badge/-git-gray?style=flat-square&logo=git" alt="git" /> 
       <img src="https://shields.io/badge/-nginx-gray?style=flat-square&logo=nginx" alt="nginx" /> 
       <img src="https://shields.io/badge/-letsencrypt-gray?style=flat-square&logo=letsencrypt" alt="letsencrypt" /> 
-
-  </code>
 </p>
 
 
