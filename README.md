@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<p align="left"> 
+<p align="left" width="100%"> 
   <img src="https://komarev.com/ghpvc/?username=jonasleonhard&label=Profile%20views&color=0e75b6&style=flat" alt="jonasleonhard" /> 
   <img src="https://img.shields.io/github/followers/JonasLeonhard?label=follow&style=social)](https://github.com/JonasLeonhard" alt="follow-badge" />
   <a href="https://jonasleonhard.de/" target="_blank"><img src="https://img.shields.io/badge/Visit-Jonasleonhard.de-green" alt="fun-badge" /></a>
@@ -28,7 +28,7 @@
 <p>
   <code>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="javascript"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+      <img src="https://shields.io/badge/-javascript-gray?style=flat-square&logo=javascript" alt="javascript"/> 
     </a> 
     <a href="https://www.typescriptlang.org/" target="_blank" title="typscript"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
