@@ -50,7 +50,7 @@
 <p align="left">
       <img src="https://shields.io/badge/-next.js-gray?style=flat-square&logo=next.js" alt="nextjs" /> 
       <img src="https://shields.io/badge/-react-gray?style=flat-square&logo=react" alt="react" /> 
-      <img src="https://shields.io/badge/-react-inactive?style=flat-square&logo=gatsby" alt="gatsby" /> 
+      <img src="https://shields.io/badge/-gatsby-inactive?style=flat-square&logo=gatsby" alt="gatsby" /> 
       <img src="https://shields.io/badge/-express-gray?style=flat-square&logo=express" alt="express" /> 
       <img src="https://shields.io/badge/-vue-gray?style=flat-square&logo=vue.js" alt="Vue" /> 
       <img src="https://shields.io/badge/-vue-inactive?style=flat-square&logo=angular" alt="angular" /> 
