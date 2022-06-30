@@ -89,23 +89,22 @@
       <img src="https://shields.io/badge/-react_spring-gray?style=flat-square&logo=teespring" alt="react-spring" /> 
       <img src="https://shields.io/badge/-nunjucks-inactive?style=flat-square&logo=read-the-docs" alt="nunjucks" /> 
       <img src="https://shields.io/badge/-thymeleaf-inactive?style=flat-square&logo=thymeleaf" alt="thmyeleaf" /> 
-
       <img src="https://shields.io/badge/-photoshop-gray?style=flat-square&logo=adobe-photoshop" alt="photoshop" /> 
-    <img src="https://shields.io/badge/-illustrator-gray?style=flat-square&logo=adobe-illustrator" alt="illustrator" /> 
-    <img src="https://shields.io/badge/-unity-gray?style=flat-square&logo=unity" alt="unity" /> 
-    <img src="https://shields.io/badge/-blender-gray?style=flat-square&logo=blender" alt="blender" /> 
-    <img src="https://shields.io/badge/-insomnia-gray?style=flat-square&logo=insomnia" alt="insomnia" /> 
-    <img src="https://shields.io/badge/-make-gray?style=flat-square&logo=cmake" alt="Make" /> 
-    <img src="https://shields.io/badge/-gitlab/ci/cd-gray?style=flat-square&logo=gitlab" alt="Gitlab & Gitlab-CI-CD" /> 
-    <img src="https://shields.io/badge/-rollup-gray?style=flat-square&logo=rollup.js" alt="Rollup.js" /> 
-    <img src="https://shields.io/badge/-storybook-gray?style=flat-square&logo=storybook" alt="Storybook" /> 
-    <img src="https://shields.io/badge/-twig-gray?style=flat-square&logo=read-the-docs" alt="Twig" /> 
-    <img src="https://shields.io/badge/-linux-gray?style=flat-square&logo=linux" alt="linux"/> 
-    <img src="https://shields.io/badge/-macos-gray?style=flat-square&logo=apple" alt="macOs" /> 
-    <img src="https://shields.io/badge/-android-inactive?style=flat-square&logo=android" alt="android" /> 
-    <img src="https://shields.io/badge/-node.js-inactive?style=flat-square&logo=node.js" alt="nodejs" /> 
-    <img src="https://shields.io/badge/-deno-gray?style=flat-square&logo=deno" alt="deno" /> 
-     <img src="https://shields.io/badge/-aws-gray?style=flat-square&logo=amazon-aws" alt="aws" /> 
+      <img src="https://shields.io/badge/-illustrator-gray?style=flat-square&logo=adobe-illustrator" alt="illustrator" /> 
+      <img src="https://shields.io/badge/-unity-gray?style=flat-square&logo=unity" alt="unity" /> 
+      <img src="https://shields.io/badge/-blender-gray?style=flat-square&logo=blender" alt="blender" /> 
+      <img src="https://shields.io/badge/-insomnia-gray?style=flat-square&logo=insomnia" alt="insomnia" /> 
+      <img src="https://shields.io/badge/-make-gray?style=flat-square&logo=cmake" alt="Make" /> 
+      <img src="https://shields.io/badge/-gitlab/ci/cd-gray?style=flat-square&logo=gitlab" alt="Gitlab & Gitlab-CI-CD" /> 
+      <img src="https://shields.io/badge/-rollup-gray?style=flat-square&logo=rollup.js" alt="Rollup.js" /> 
+      <img src="https://shields.io/badge/-storybook-gray?style=flat-square&logo=storybook" alt="Storybook" /> 
+      <img src="https://shields.io/badge/-twig-gray?style=flat-square&logo=read-the-docs" alt="Twig" /> 
+      <img src="https://shields.io/badge/-linux-gray?style=flat-square&logo=linux" alt="linux"/> 
+      <img src="https://shields.io/badge/-macos-gray?style=flat-square&logo=apple" alt="macOs" /> 
+      <img src="https://shields.io/badge/-android-inactive?style=flat-square&logo=android" alt="android" /> 
+      <img src="https://shields.io/badge/-node.js-inactive?style=flat-square&logo=node.js" alt="nodejs" /> 
+      <img src="https://shields.io/badge/-deno-gray?style=flat-square&logo=deno" alt="deno" /> 
+      <img src="https://shields.io/badge/-aws-gray?style=flat-square&logo=amazon-aws" alt="aws" /> 
       <img src="https://shields.io/badge/-docker-gray?style=flat-square&logo=docker" alt="docker" /> 
       <img src="https://shields.io/badge/-docker_compose-gray?style=flat-square&logo=read-the-docs" alt="docker-compose" /> 
       <img src="https://shields.io/badge/-portainer-gray?style=flat-square&logo=portainer" alt="portainer" /> 
