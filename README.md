@@ -1,9 +1,7 @@
 <p algin="left">
-  <div width="100%">
-    <img align="left" src="https://media.giphy.com/media/xUOrw01a1gy7BUwq40/giphy.gif" width="150px">
-   </div>
-<h1 align="center">@JonasLeonhard</h1>
-<h3 align="center">"🐲 Fullstack Developer from Germany"</h3>
+    <img align="center" src="https://media.giphy.com/media/xUOrw01a1gy7BUwq40/giphy.gif" width="150px">
+    <h1 align="center">@JonasLeonhard</h1>
+    <h3 align="center">"🐲 Fullstack Developer from Germany"</h3>
 </p>
 
 <br>
