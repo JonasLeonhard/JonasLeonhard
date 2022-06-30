@@ -33,7 +33,7 @@
       <img src="https://shields.io/badge/-typescript-gray?style=flat-square&logo=typescript" alt="typescript"/> 
       <img src="https://shields.io/badge/-bash-gray?style=flat-square&logo=gnu-bash" alt="bash"/> 
       <img src="https://shields.io/badge/-rust-gray?style=flat-square&logo=rust" alt="rust" /> 
-      <img src="https://shields.io/badge/-kotlin-gray?style=flat-square&logo=kotlin" alt="kotlin"/> 
+      <img src="https://shields.io/badge/-kotlin-inactive?style=flat-square&logo=kotlin" alt="kotlin"/> 
       <img src="https://shields.io/badge/-php-gray?style=flat-square&logo=php" alt="php" /> 
       <img src="https://shields.io/badge/-java-inactive?style=flat-square&logo=spring" alt="java" /> 
       <img src="https://shields.io/badge/-c%20sharp-inactive?style=flat-square&logo=c-sharp" alt="csharp"/> 
