@@ -66,7 +66,7 @@
       <img src="https://shields.io/badge/-postgresql-gray?style=flat-square&logo=postgresql" alt="postgresql" /> 
       <img src="https://shields.io/badge/-mysql-gray?style=flat-square&logo=mysql" alt="mysql" /> 
       <img src="https://shields.io/badge/-sqlite-inactive?style=flat-square&logo=sqlite" alt="sqlite" /> 
-      <img src="https://shields.io/badge/-craftcms-inactive?style=flat-square&logo=craftcms" alt="craftCMS" /> 
+      <img src="https://shields.io/badge/-craftcms-gray?style=flat-square&logo=craftcms" alt="craftCMS" /> 
       <img src="https://shields.io/badge/-drupal-inactive?style=flat-square&logo=drupal" alt="drupal" /> 
 </p>
 
