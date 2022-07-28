@@ -114,6 +114,7 @@
       <img src="https://shields.io/badge/-git-gray?style=flat-square&logo=git" alt="git" /> 
       <img src="https://shields.io/badge/-nginx-gray?style=flat-square&logo=nginx" alt="nginx" /> 
       <img src="https://shields.io/badge/-letsencrypt-gray?style=flat-square&logo=letsencrypt" alt="letsencrypt" /> 
+      <img src="https://shields.io/badge/-three.js-gray?style=flat-square&logo=three.js alt="three.js" />
 </p>
 
 
