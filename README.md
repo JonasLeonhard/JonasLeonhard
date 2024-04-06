@@ -21,10 +21,6 @@
 <br>
 <br>
 
-*Note: this is a list of stuff i prefer using and would like to work with. There is alot of stuff i didn't put on the list, so just ask me about it.*
-<img src="https://shields.io/badge/-active-gray?style=flat-square&logo=s" alt="active" /> 
-<img src="https://shields.io/badge/-inactive-inactive?style=flat-square&logo=s" alt="inactive" /> 
-
 <h3 align="left">
   💾 Languages:
 </h3>
