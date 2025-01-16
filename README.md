@@ -24,11 +24,11 @@
 <h3 align="left">
   💾 Currently interested in:
 </h3>
-- Frontend Development
-- Backend Development
-- Game Development
-- Systems Programming
-- Tools
+<p>- Frontend Development</p>
+<p>- Backend Development</p>
+<p>- Game Development</p>
+<p>- Systems Programming</p>
+<p>- Tools</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonasleonhard&" alt="jonasleonhard" />
