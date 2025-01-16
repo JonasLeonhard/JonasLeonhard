@@ -28,7 +28,3 @@
 <p>- Game Development</p>
 <p>- Systems Programming</p>
 <p>- Tools</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonasleonhard&" alt="jonasleonhard" />
-</p>
